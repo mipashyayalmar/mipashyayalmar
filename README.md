@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mipashyayalmar
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning webdesigning as well working in ml
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on GSOC WELL FOSSASIA (curent goal😊)
 - 📫 How to reach me [Personal Portfolio](https://mipashyayalmar.github.io/-Profile-data/)
 - 😄 Pronouns: pashya
 - ⚡ Fun fact:my fun fact is college life enjoy as i want which enjoy with own rules...
