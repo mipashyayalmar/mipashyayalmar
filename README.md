@@ -9,56 +9,6 @@
 # 💻 Tech Stack:
 ![django](https://img.shields.io/badge/django-%234ea94b.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=#00C7B7) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![GitLab](https://img.shields.io/badge/gitlab-%2300f.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![pythonanywhere](https://img.shields.io/badge/pythonanywhere-%23000000.svg?style=for-the-badge&logo=pythonanywhere&logoColor=#00C7B7)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
- 
-# 🚀 Professional Experience:
-<table align="center">
-  <thead align="center">
-    <tr border: none;>
-      <td><b> 💼 Designation </b></td> 
-      <td><b> 🏢Organization </b></td> 
-      <td><b> ⏰Timeline  </b></td> 
-      </tr>
-  </thead>
-  <tbody> 
-    <tr>
-      <td> <b> Full Stack developer Intern</b> </td>
-      <td><a href="https://web.stratzy.in/"/><b>Stratzy</b></a></td>
-      <td> <b>Aug 2023 - Present </b> </td>
-   </tr>
-   <tr>
-      <td> <b> Full Stack developer Intern</b> </td>
-      <td><a href="https://www.linkedin.com/company/alongrow/"/><b>Alongrow Services</b></a></td>
-      <td> <b>Sep 2023 - Nov 2023 </b> </td>
-   </tr>
-   <tr>
-      <td> <b> Software developer Intern</b> </td>
-      <td><a href="https://aavilabs.com/"/><b>AAV Innovation Labs</b></a></td>
-      <td> <b>Aug 2023 - Sep 2023 </b> </td>
-   </tr>
-   <tr>
-      <td> <b> Full Stack developer Intern</b> </td>
-      <td><a href="https://www.zaperon.com/"/><b>Zaperon</b></a></td>
-      <td> <b>Jul 2023 - Aug-2023 </b> </td>
-   </tr>
-   <tr>
-      <td> <b> Open Source Contributor</b> </td>
-      <td><a href="https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+mentions%3AAn525ish+sort%3Arelevance-desc"/><b>GSSOC</b></a></td>
-      <td> <b>Jun 2023 - Aug-2023 </b> </td>
-   </tr>
-    <tr>
-      <td> <b> Full Stack developer Intern</b> </td>
-      <td><a href="https://etherworld.co/"/><b>Avarch</b></a></td>
-      <td> <b>Feb 2023 - Aug-2023 </b> </td>
-   </tr>
-    <tr>
-      <td> <b> Full Stack developer Intern</b> </td>
-      <td><a href="https://linqway.com/"/><b>Linqway Techniks</b></a></td>
-      <td> <b>Nov 2022 - Feb 2023 </b> </td>
-   </tr>
-   </tbody>	 
-</table>
-
-<br/>
 
 # 📊 GitHub Stats:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -75,7 +25,7 @@
 ⚡ Fun fact: My college life is all about enjoying it on my own terms - creating my own rules and embracing every moment!
 
 
-  <img src="https://github.com/an525ish/an525ish/blob/output/github-contribution-grid-snake.svg" alt="snake">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -95,10 +45,6 @@
 
 
 
-
-
-
-### Hi there, I'm Prasad! 👋
 
 
 <!---
