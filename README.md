@@ -1,4 +1,4 @@
-<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1kpcUF95F6Y2zVpZz_yuvj&ust=1708414048417000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPD-74KluIQDFQAAAAAdAAAAABAY)" width="230">
+<img align='right' src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" width="230">
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">   About Me:   
 🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 Ece Student from IIIT Bhopal [2025]<br>📧 an525ish@gmail.com<br>📝 CV:  <a href="https://drive.google.com/file/d/1jSd1BJWltjKx6GGN5J2eFEJn4IYQSIOb/view?usp=share_link" >View Resume</a><br>
