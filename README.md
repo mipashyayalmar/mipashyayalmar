@@ -3,7 +3,7 @@
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">   About Me:   
 
 
-🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 KIT , Shelve, Pandharpur<br>📧 yalmarprasad@gmail.com<br>📝<a href="https://mipashyayalmar.github.io/-Profile-data/" >View Resume</a><br>
+🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫Karmayogi Institute of Technology(KIT), Shelve, Pandharpur<br>📧 yalmarprasad@gmail.com<br>📝<a href="https://mipashyayalmar.github.io/-Profile-data/" >View Resume</a><br>
 
 ## 🌐 Socials:
 
