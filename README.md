@@ -1,7 +1,7 @@
 <img align='right' src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" width="600">
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">   About Me:   
-🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 KIT , Shelve, Pandharpur<br>📧 yalmarprasad@gmail.com<br>📝 CV:  <a href="https://mipashyayalmar.github.io/-Profile-data/" >View Resume</a><br>
+🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 KIT , Shelve, Pandharpur<br>📧 yalmarprasad@gmail.com<br>📝<a href="https://mipashyayalmar.github.io/-Profile-data/" >View Resume</a><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/an525ish) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/an525ish) 
