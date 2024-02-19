@@ -62,25 +62,19 @@
 
 # 📊 GitHub Stats:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+👀 I'm passionate about **machine learning** and the endless possibilities it offers.
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=an525ish&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="an525ish" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an525ish&theme=dark" alt="an525ish" /></td>
-  </tr>
-</table>
+🌱 Currently, I'm delving into the world of **web design** while continuing my journey in **machine learning**.
 
----
+💞️ My current goal is to collaborate on **GSOC** with **FOSSASIA** - an exciting opportunity to contribute to impactful projects!
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=an525ish&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="an525ish" />
-  </p>
- </div> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+📫 Reach out to me through my [Personal Portfolio](https://mipashyayalmar.github.io/-Profile-data/) - I'm always open to connecting and discussing potential collaborations.
 
-<!--  ![Snake Graph](https://github.com/an525ish/an525ish/blob/main/github-user-contribution.svg) -->
-<p>
+😄 Pronouns: **pashya**
+
+⚡ Fun fact: My college life is all about enjoying it on my own terms - creating my own rules and embracing every moment!
+
+
   <img src="https://github.com/an525ish/an525ish/blob/output/github-contribution-grid-snake.svg" alt="snake">
 
 
@@ -106,17 +100,6 @@
 
 ### Hi there, I'm Prasad! 👋
 
-👀 I'm passionate about **machine learning** and the endless possibilities it offers.
-
-🌱 Currently, I'm delving into the world of **web design** while continuing my journey in **machine learning**.
-
-💞️ My current goal is to collaborate on **GSOC** with **FOSSASIA** - an exciting opportunity to contribute to impactful projects!
-
-📫 Reach out to me through my [Personal Portfolio](https://mipashyayalmar.github.io/-Profile-data/) - I'm always open to connecting and discussing potential collaborations.
-
-😄 Pronouns: **pashya**
-
-⚡ Fun fact: My college life is all about enjoying it on my own terms - creating my own rules and embracing every moment!
 
 <!---
 mipashyayalmar/mipashyayalmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
