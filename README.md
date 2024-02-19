@@ -1,4 +1,4 @@
-<img align='right' src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" width="630">
+<img align='right' src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" width="600">
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">   About Me:   
 🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 Ece Student from IIIT Bhopal [2025]<br>📧 an525ish@gmail.com<br>📝 CV:  <a href="https://drive.google.com/file/d/1jSd1BJWltjKx6GGN5J2eFEJn4IYQSIOb/view?usp=share_link" >View Resume</a><br>
