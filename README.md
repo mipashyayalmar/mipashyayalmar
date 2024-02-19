@@ -1,9 +1,13 @@
 <img align='right' src="https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="320">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">   About Me:   
-🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 KIT , Shelve, Pandharpur<br>📧 yalmarprasad@gmail.com<br>📝<a href="https://mipashyayalmar.github.io/-Profile-data/" >View Resume</a><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 KIT , Shelve, Pandharpur<br>📧 yalmarprasad@gmail.com<br>📝<a href="https://mipashyayalmar.github.io/-Profile-data/" >View Resume</a><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## 🌐 Socials:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MiPashya50821?t=LYLhZN5QEdUJ_0X_inkVdQ&s=08) 
 
 # 💻 Tech Stack:
