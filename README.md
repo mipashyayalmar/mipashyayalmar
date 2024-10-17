@@ -3,7 +3,7 @@
 # <img src="https://media2.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47vo39wzuo0zmx2ewolqnyoy8sx4zw3kknpqezv9r1&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="120" >About Me:  
 
 
-🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫Karmayogi Institute of Technology(KIT), Shelve, Pandharpur<br>📧 yalmarprasad@gmail.com<br>📝<a href="https://mipashyayalmar.github.io/-Profile-data/" >View Resume</a><br>
+🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫Karmayogi Institute of Technology(KIT), Shelve, Pandharpur<br>📧 yalmarprasad123@gmail.com<br>📝<a href="https://mipashyayalmar.github.io/-Profile-data/" >View Resume</a><br>
 
 ## 🌐 Socials:
 
