@@ -1,36 +1,98 @@
 <img align='right' src="https://media1.giphy.com/media/GmsczSLb4gaA9hjqvu/giphy.gif?cid=ecf05e47kmu8e6lzmkfvqwwz76g7h74gfv5rpiu1vvwjry99&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="420">
 
-# <img src="https://media2.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47vo39wzuo0zmx2ewolqnyoy8sx4zw3kknpqezv9r1&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="120" >About Me:  
+# <img src="https://media2.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47vo39wzuo0zmx2ewolqnyoy8sx4zw3kknpqezv9r1&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="120" > About Me:
 
+🧭 FullStack Developer  
+🏡 Currently based in India 🇮🇳  
+🏫 Karmayogi Institute of Technology (KIT), Shelve, Pandharpur  
+📧 yalmarprasad123@gmail.com  
+📝 [View Resume](https://mipashyayalmar.github.io/-Profile-data/)  
 
-🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫Karmayogi Institute of Technology(KIT), Shelve, Pandharpur<br>📧 yalmarprasad123@gmail.com<br>📝<a href="https://mipashyayalmar.github.io/-Profile-data/" >View Resume</a><br>
+---
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MiPashya50821?t=LYLhZN5QEdUJ_0X_inkVdQ&s=08) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/MiPashya50821?t=LYLhZN5QEdUJ_0X_inkVdQ&s=08) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mipashyayalmar) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white&style=for-the-badge)](https://mipashyayalmar.github.io/-Profile-data/)
 
-# 💻 Tech Stack:
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
-![Python](https://camo.githubusercontent.com/70a5ef7589e5449d1a8711964fb2a17822838db801fadb6fe245fb0e85b742d7/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d617232312e737667) ![vscode](https://camo.githubusercontent.com/4a948e11d0b2ac72fc2ee02d8539c83b7f50f043d8d0b62b0eb9d205001d7b6f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76697375616c73747564696f5f636f64652f76697375616c73747564696f5f636f64652d617232312e737667)![MySQL](https://camo.githubusercontent.com/842373051212a9c9c61fe72b9d636b2e7ed06f89120e8322ea5e67d01857cff8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d617232312e737667)
-<br>
-![Git](https://camo.githubusercontent.com/d276238ec297a274a3c923b0323c2d386c089dfe48927d53b0efb1b7fd8fa517/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d6663366432363f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465) ![Matplotlib](https://camo.githubusercontent.com/a87b3fbf35c49792779b1f49d3c96151a3ebb06867ca83842afc37743717de42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666c61742d737175617265266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b)![numpy](https://camo.githubusercontent.com/20142a76439833b178639a3260e3227e840a111e7dfbcda7875be252e279557c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666c61742d737175617265266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)![pandas](https://camo.githubusercontent.com/a3bb113a41aa2418542ddc4d8416b1498a6d1649cda5fad74d885bb1a8cbd674/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666c61742d737175617265266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465) <br>
-![django](https://camo.githubusercontent.com/6d5704fb73e1524be26bec29f0065acec83252fe818a4bd58dfbf09f23db8a6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2d2532333039324532302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![GitLab](https://img.shields.io/badge/gitlab-%2300f.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![pythonanywhere](https://img.shields.io/badge/pythonanywhere-%23000000.svg?style=for-the-badge&logo=pythonanywhere&logoColor=#00C7B7)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
-# 📊 GitHub Stats
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## 💻 Tech Stack:
+
+### Languages & Frameworks:
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Platforms:
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### Databases:
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Data Science & ML:
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+---
+
+## 📊 GitHub Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mipashyayalmar&show_icons=true&theme=radical)
 
-👀 I'm passionate about **machine learning** and the endless possibilities it offers.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mipashyayalmar&layout=compact&theme=radical)
 
-🌱 Currently, I'm delving into the world of **web design** while continuing my journey in **machine learning**.
+---
 
-💞️ My current goal is to collaborate on **GSOC** with **FOSSASIA** - an exciting opportunity to contribute to impactful projects!
+## 🚀 Projects:
 
-📫 Reach out to me through my [Personal Portfolio](https://mipashyayalmar.github.io/-Profile-data/) - I'm always open to connecting and discussing potential collaborations.
+- **[Project 1](https://github.com/mipashyayalmar/project1)** - A brief description of the project.
+- **[Project 2](https://github.com/mipashyayalmar/project2)** - A brief description of the project.
+- **[Project 3](https://github.com/mipashyayalmar/project3)** - A brief description of the project.
 
-😄 Pronouns: **pashya**
+---
 
-⚡ Fun fact: My college life is all about enjoying it on my own terms - creating my own rules and embracing every moment!
+## 🌱 Currently Learning:
+
+- **Web Design** - Exploring the world of modern web design and UX/UI principles.
+- **Machine Learning** - Deepening my knowledge in ML algorithms and frameworks.
+
+---
+
+## 💡 Interests:
+
+- **Machine Learning** - Passionate about building intelligent systems.
+- **Open Source** - Actively contributing to open-source projects.
+- **Web Development** - Creating responsive and user-friendly web applications.
+
+---
+
+## 📫 Let's Connect:
+
+- **Email:** yalmarprasad123@gmail.com
+- **Portfolio:** [Visit My Portfolio](https://mipashyayalmar.github.io/-Profile-data/)
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+
+---
+
+## ⚡ Fun Fact:
+
+I believe in creating my own rules and enjoying every moment of my college life! 🎉
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
