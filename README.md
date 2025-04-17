@@ -1,3 +1,7 @@
+
+## Project Status
+
+![Project Status](https://img.shields.io/badge/status-in_development-blue)
 # 🚀 PandharpurGuide
 
 [![GitHub license](https://img.shields.io/github/license/mipashyayalmar/PandharpurGuide__?style=flat-square)](https://github.com/mipashyayalmar/PandharpurGuide__/blob/main/LICENSE)
