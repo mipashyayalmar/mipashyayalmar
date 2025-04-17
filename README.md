@@ -48,3 +48,11 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://gi
 
 ## 📬 Contact
 For queries or suggestions, please reach out via our [GitHub Issues](https://github.com/mipashyayalmar/PandharpurGuide__/issues) page.
+
+
+
+## 📊 GitHub Stats
+![GitHub contributors](https://img.shields.io/github/contributors/mipashyayalmar/PandharpurGuide__?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/mipashyayalmar/PandharpurGuide__?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mipashyayalmar/PandharpurGuide__?style=flat-square)
+
