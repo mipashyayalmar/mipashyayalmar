@@ -34,10 +34,7 @@ The following team members are contributing to this project:
 - [Biradar2288Sudharani](https://github.com/Biradar2288Sudharani)
 - [mipashyayalmar](https://github.com/mipashyayalmar)
 
-## 📊 GitHub Stats
-![GitHub contributors]([https://img.shields.io/github/contributors/mipashyayalmar/PandharpurGuide__?style=flat-square](https://github.com/mipashyayalmar/mipashyayalmar/tree/main))
-![GitHub forks](https://img.shields.io/github/forks/mipashyayalmar/PandharpurGuide__?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/mipashyayalmar/PandharpurGuide__?style=flat-square)
+
 
 ## 🤝 Contributing
 We welcome contributions to enhance PandharpurGuide! To contribute:
