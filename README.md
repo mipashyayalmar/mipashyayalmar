@@ -29,10 +29,10 @@
 
 The following team members are contributing to this project:
 
-- [mipashyayalmar](https://github.com/mipashyayalmar)
 - [dhaval291103](https://github.com/dhaval291103)
 - [NikitaRajmane](https://github.com/NikitaRajmane)
-- [Biradar2288Sudharani](https://github.com/Biradar2288Sudharani) 
+- [Biradar2288Sudharani](https://github.com/Biradar2288Sudharani)
+- [mipashyayalmar](https://github.com/mipashyayalmar)
 
 ## 📊 GitHub Stats
 ![GitHub contributors]([https://img.shields.io/github/contributors/mipashyayalmar/PandharpurGuide__?style=flat-square](https://github.com/mipashyayalmar/mipashyayalmar/tree/main))
