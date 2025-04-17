@@ -5,6 +5,8 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/mipashyayalmar/PandharpurGuide__?style=flat-square)](https://github.com/mipashyayalmar/PandharpurGuide__)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/mipashyayalmar/PandharpurGuide__/pulls)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=mipashyayalmar&repo=PandharpurGuide__&layout=compact
+
 ## 🌟 Features
 - 🛕 Temple information and cultural insights
 - 📱 Responsive design with Bootstrap
