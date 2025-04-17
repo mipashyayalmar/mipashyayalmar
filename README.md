@@ -19,10 +19,13 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 👥 Collaborators
-🌟 **Mipash Yayalmar**  
-🌟 **Sudharani Biradar**  
-🌟 **Dhaval**  
-🌟 **Nikita Rajmane**  
+
+The following team members are contributing to this project:
+
+- [mipashyayalmar](https://github.com/mipashyayalmar)
+- [dhaval291103](https://github.com/dhaval291103)
+- [NikitaRajmane](https://github.com/NikitaRajmane)
+- [Biradar2288Sudharani](https://github.com/Biradar2288Sudharani) 
 
 ## 📊 GitHub Stats
 ![GitHub contributors]([https://img.shields.io/github/contributors/mipashyayalmar/PandharpurGuide__?style=flat-square](https://github.com/mipashyayalmar/mipashyayalmar/tree/main))
