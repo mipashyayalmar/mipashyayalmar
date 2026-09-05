@@ -1,59 +1,59 @@
+# Hi, I'm Prasad Ganesh Yalmar
 
-## Project Status
+## Python Full Stack Developer
 
-![Project Status](https://img.shields.io/badge/status-in_development-blue)
-# 🚀 PandharpurGuide
+I build secure, maintainable, and production-ready web applications with Python and Django. With 2+ years of hands-on experience, I work across backend development, REST APIs, database systems, frontend integration, and practical business workflows.
 
-[![GitHub license](https://img.shields.io/github/license/mipashyayalmar/PandharpurGuide__?style=flat-square)](https://github.com/mipashyayalmar/PandharpurGuide__/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/mipashyayalmar/PandharpurGuide__?style=flat-square)](https://github.com/mipashyayalmar/PandharpurGuide__/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/mipashyayalmar/PandharpurGuide__?style=flat-square)](https://github.com/mipashyayalmar/PandharpurGuide__)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/mipashyayalmar/PandharpurGuide__/pulls)
+<a href="https://mipashyayalmar.github.io/profile-data-2-cld/">View my portfolio</a> · <a href="mailto:yalmarprasad123@gmail.com">Contact me</a> · <a href="https://github.com/mipashyayalmar">Explore my repositories</a>
 
-## Programming Languages
+## What I Work With
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mipashyayalmar&repo=PandharpurGuide__&layout=compact)
-## 🌟 Features
-- 🛕 Temple information and cultural insights
-- 📱 Responsive design with Bootstrap
-- ⚡ Fast Django backend
-- 🗺️ Interactive maps and guides
+- **Backend:** Python, Django, Django REST Framework, REST APIs
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, React.js
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, VS Code, Postman
+- **Engineering:** Authentication, authorization, role-based access control, API integration, Razorpay integration, database optimization
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+## Professional Focus
 
-## 👥 Collaborators
+- Designing reliable Django applications and backend services
+- Building structured REST APIs and integrating third-party services
+- Connecting responsive frontends with maintainable backend systems
+- Modeling, querying, and optimizing application databases
+- Debugging and improving production-oriented workflows
 
-The following team members are contributing to this project:
+## Featured Work
 
-- [dhaval291103](https://github.com/dhaval291103)
-- [NikitaRajmane](https://github.com/NikitaRajmane)
-- [Biradar2288Sudharani](https://github.com/Biradar2288Sudharani)
-- [mipashyayalmar](https://github.com/mipashyayalmar)
+### [Portfolio Website](https://mipashyayalmar.github.io/profile-data-2-cld/)
 
+A responsive developer portfolio presenting my experience, technology stack, projects, education, services, resume, and contact details.
 
+### [Pandharpur Guide](https://github.com/mipashyayalmar/PandharpurGuide__)
 
-## 🤝 Contributing
-We welcome contributions to enhance PandharpurGuide! To contribute:
+A Django and Bootstrap project focused on presenting Pandharpur information and guide content through a responsive web experience.
 
-1. Fork the [repository](https://github.com/mipashyayalmar/PandharpurGuide__)
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes and commit (`git commit -m 'Add feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a [Pull Request](https://github.com/mipashyayalmar/PandharpurGuide__/pulls)
+### [Profile Data](https://github.com/mipashyayalmar/-Profile-data)
 
-## 📫 Let's Connect
-📧 **Email**: [yalmarprasad123@gmail.com](mailto:yalmarprasad123@gmail.com)  
-🌐 **Portfolio**: [Visit My Portfolio](#) *(link to be added)*  
-💼 **LinkedIn**: [Connect on LinkedIn](#) *(link to be added)*  
+An earlier portfolio project containing profile, education, skills, and professional information.
 
-## 📜 License
-This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/mipashyayalmar/PandharpurGuide__/blob/main/LICENSE) file for details.
+## Experience
 
-## 📬 Contact
-For queries or suggestions, please reach out via our [GitHub Issues](https://github.com/mipashyayalmar/PandharpurGuide__/issues) page.
+**Python Full Stack Developer · Microdynamic Software**
 
+I contribute across Django application development, REST API implementation, database optimization, frontend integration, debugging, version control, and third-party payment or API integrations.
 
+## Education
+
+**B.Tech in Computer Engineering**  
+Karmayogi Institute of Technology (KIT), Shelve  
+Dr. Babasaheb Ambedkar Technological University, Lonere  
+Year of passing: 2025
+
+## Connect
+
+- **Email:** [yalmarprasad123@gmail.com](mailto:yalmarprasad123@gmail.com)
+- **Portfolio:** [mipashyayalmar.github.io/profile-data-2-cld](https://mipashyayalmar.github.io/profile-data-2-cld/)
+- **GitHub:** [github.com/mipashyayalmar](https://github.com/mipashyayalmar)
+- **Profile reference:** [Claude profile reference](https://claude.ai/share/8483ac3c-6467-47ad-a73a-366de30e4da1)
+
+> Open to opportunities involving Python, Django, REST APIs, databases, and full stack web development.
