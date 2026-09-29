@@ -47,7 +47,7 @@ I contribute across Django application development, REST API implementation, dat
 **B.Tech in Computer Engineering**  
 Karmayogi Institute of Technology (KIT), Shelve  
 Dr. Babasaheb Ambedkar Technological University, Lonere  
-Year of passing: 2025
+Year of passing: 2024
 
 ## Connect
 
