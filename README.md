@@ -12,6 +12,7 @@ I build secure, maintainable, and production-ready web applications with Python 
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, React.js
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, GitHub, VS Code, Postman
+- **Deployment:** PythonAnywhere, AWS EC2, Docker, Nginx, Gunicorn
 - **Engineering:** Authentication, authorization, role-based access control, API integration, Razorpay integration, database optimization
 
 ## Professional Focus
@@ -23,6 +24,12 @@ I build secure, maintainable, and production-ready web applications with Python 
 - Debugging and improving production-oriented workflows
 
 ## Featured Work
+
+### [Royal Shetkari - Restaurant POS](https://github.com/mipashyayalmar/new-royal-shetkari) · [Live app](https://royalhotel.pythonanywhere.com)
+
+A full restaurant POS built with Django: live floor plan, KOT and kitchen display, GST billing with split payments and UPI QR, ESC/POS thermal printing, QR self-ordering, inventory, shifts, reports and WhatsApp receipts. Multi-tenant with role-based access for owner, manager, cashier, captain, waiter and chef. It installs as an app on Android from Chrome (PWA) and runs live on PythonAnywhere.
+
+**Tech:** Python, Django, SQLite/PostgreSQL, Celery, Redis, JavaScript, Bootstrap, PWA
 
 ### [Portfolio Website](https://mipashyayalmar.github.io/profile-data-2-cld/)
 
