@@ -61,7 +61,6 @@ Year of passing: 2024
 - **Email:** [yalmarprasad123@gmail.com](mailto:yalmarprasad123@gmail.com)
 - **Portfolio:** [mipashyayalmar.github.io/profile-data-2-cld](https://mipashyayalmar.github.io/profile-data-2-cld/)
 - **GitHub:** [github.com/mipashyayalmar](https://github.com/mipashyayalmar)
-- **Profile reference:** [Claude profile reference](https://claude.ai/share/8483ac3c-6467-47ad-a73a-366de30e4da1)
 
 > Open to opportunities involving Python, Django, REST APIs, databases, and full stack web development.
 
