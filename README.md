@@ -23,6 +23,10 @@ I build secure, maintainable, and production-ready web applications with Python 
 - Modeling, querying, and optimizing application databases
 - Debugging and improving production-oriented workflows
 
+## Development Consistency Goal
+
+**Target: contribute on 25 days each month** through meaningful coding, code review, tests, bug fixes, or documentation improvements. This is a personal goal, not a record of completed contributions; actual activity is reflected in GitHub's contribution graph.
+
 ## Featured Work
 
 ### [Royal Shetkari - Restaurant POS](https://github.com/mipashyayalmar/new-royal-shetkari) · [Live app](https://royalhotel.pythonanywhere.com)
